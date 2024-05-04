@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\marce\\source\\repos\\ApiGrupo1\\WebApiGrupo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59331B65-08FA-48A5-9AA1-94A2762EDFB8}|ApiGrupo1\\ApiGrupo1.csproj|c:\\users\\marce\\source\\repos\\apigrupo1\\webapigrupo1\\apigrupo1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59331B65-08FA-48A5-9AA1-94A2762EDFB8}|ApiGrupo1\\ApiGrupo1.csproj|solutionrelative:apigrupo1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59331B65-08FA-48A5-9AA1-94A2762EDFB8}|ApiGrupo1\\ApiGrupo1.csproj|c:\\users\\marce\\source\\repos\\apigrupo1\\webapigrupo1\\apigrupo1\\migrations\\20240504230403_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59331B65-08FA-48A5-9AA1-94A2762EDFB8}|ApiGrupo1\\ApiGrupo1.csproj|solutionrelative:apigrupo1\\migrations\\20240504230403_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59331B65-08FA-48A5-9AA1-94A2762EDFB8}|ApiGrupo1\\ApiGrupo1.csproj|c:\\users\\marce\\source\\repos\\apigrupo1\\webapigrupo1\\apigrupo1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59331B65-08FA-48A5-9AA1-94A2762EDFB8}|ApiGrupo1\\ApiGrupo1.csproj|solutionrelative:apigrupo1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59331B65-08FA-48A5-9AA1-94A2762EDFB8}|ApiGrupo1\\ApiGrupo1.csproj|c:\\users\\marce\\source\\repos\\apigrupo1\\webapigrupo1\\apigrupo1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59331B65-08FA-48A5-9AA1-94A2762EDFB8}|ApiGrupo1\\ApiGrupo1.csproj|solutionrelative:apigrupo1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,12 +43,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240504230403_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ApiGrupo1\\WebApiGrupo1\\ApiGrupo1\\Migrations\\20240504230403_Initial.cs",
+              "RelativeDocumentMoniker": "ApiGrupo1\\Migrations\\20240504230403_Initial.cs",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\ApiGrupo1\\WebApiGrupo1\\ApiGrupo1\\Migrations\\20240504230403_Initial.cs",
+              "RelativeToolTip": "ApiGrupo1\\Migrations\\20240504230403_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T23:04:03.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\ApiGrupo1\\WebApiGrupo1\\ApiGrupo1\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "ApiGrupo1\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\marce\\source\\repos\\ApiGrupo1\\WebApiGrupo1\\ApiGrupo1\\Controllers\\UsersController.cs",
               "RelativeToolTip": "ApiGrupo1\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T18:18:16.63Z",
               "EditorCaption": ""
@@ -57,10 +74,9 @@
               "RelativeDocumentMoniker": "ApiGrupo1\\Models\\User.cs",
               "ToolTip": "C:\\Users\\marce\\source\\repos\\ApiGrupo1\\WebApiGrupo1\\ApiGrupo1\\Models\\User.cs",
               "RelativeToolTip": "ApiGrupo1\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T23:45:33.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T23:45:33.43Z"
             }
           ]
         },

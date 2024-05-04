@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiGrupo1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02a68782d7a0fc7485be32cf83f2c865332af282")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e120a9bde2b2b3d118f465cea709b2a597f9ac4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiGrupo1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiGrupo1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
